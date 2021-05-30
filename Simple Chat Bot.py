@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
-
 def greet(bot_name, birth_year):  # bot introduction
     print('Hello! My name is ' + bot_name + '.')
     print('I was created in ' + birth_year + '.\n')
@@ -63,10 +57,3 @@ guess_age()
 count()
 test()
 end()
-
-
-# I
-
-
-
-
